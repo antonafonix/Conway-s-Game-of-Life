@@ -2,7 +2,8 @@
 
 An implementation of **Conway’s Game of Life** written in **C** using **Raylib** for rendering the simulation.
 
-![Demo](ttps://private-user-images.githubusercontent.com/225547815/615235299-5e8f8ed6-06fe-4b98-9c25-f7e164d804f8.mov?jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3ODI4MzI0MjMsIm5iZiI6MTc4MjgzMjEyMywicGF0aCI6Ii8yMjU1NDc4MTUvNjE1MjM1Mjk5LTVlOGY4ZWQ2LTA2ZmUtNGI5OC05YzI1LWY3ZTE2NGQ4MDRmOC5tb3Y_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjYwNjMwJTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI2MDYzMFQxNTA4NDNaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT0zNjU4NTE2YjYwNmU1NzkwMzc4OTdhOWY4ZDhmZGUwZjkzOGRmODQ4ZWRlNzg0NGViOGIxNDZhYzhjZDY1Y2Q5JlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZyZXNwb25zZS1jb250ZW50LXR5cGU9dmlkZW8lMkZxdWlja3RpbWUifQ.7ozJlhIAyaztYkRJQFF_Gzo_GYKcv9uS636znFKKk78)
+<img width="400" height="325" alt="Screen Recording 2026-06-30 at 11 07 15 AM" src="https://github.com/user-attachments/assets/743f5a7e-38aa-4b9d-a6bd-6e67aee83121" />
+
 
 ---
 
