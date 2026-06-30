@@ -2,7 +2,8 @@
 
 An implementation of **Conway’s Game of Life** written in **C** using **Raylib** for rendering the simulation.
 
-<img width="400" height="325" alt="Screen Recording 2026-06-30 at 11 07 15 AM" src="https://github.com/user-attachments/assets/743f5a7e-38aa-4b9d-a6bd-6e67aee83121" />
+<img width="400" height="299" alt="Screen Recording 2026-06-30 at 11 22 08 AM" src="https://github.com/user-attachments/assets/4539a2fd-f703-4911-b73b-f852f15a5760" />
+
 
 
 ---
