@@ -20,6 +20,8 @@ typedef struct {
 
 void GameBoard_Init(GameBoard* board, int rows, int cols);
 void GameBoard_Draw(const GameBoard* board);
-void GameBoard_Free(GameBoard *board);
+void GameBoard_Free(GameBoard* board);
+int count_neighbors(GameBoard* board, int current_index);
+void GameBoard_Update(GameBoard* board);
 
 #endif
